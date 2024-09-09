@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kqalai.github.io/qga/sitemap.qga.gz
